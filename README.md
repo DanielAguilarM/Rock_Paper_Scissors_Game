@@ -3,5 +3,5 @@
 # Install TKinter
  pip install tk
  verfy version :
-   import tkinter
+   import tkinter 
    tkinter._test()
